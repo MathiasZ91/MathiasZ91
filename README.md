@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Student+Web+Developer;Passionate+Coder;Open+to+Collaboration)](https://git.io/typing-svg)
 
 # 💫 About Me:
-*   👨‍💻 Student at VidyaGyan passionate about web development.
+*   👨‍💻 Passionate about web development.
 *   🎨 Building my portfolio: 🚀
 *   🤝 Looking to collaborate on React & UI component libraries.
 *   📚 Currently learning modern web dev techniques.
